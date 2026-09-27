@@ -13,8 +13,8 @@ Implementing the parameters were the hardest part, I had to make game.js update 
 ### Controls: 
 - Movement: WASD
 - ESC key to pause the game and be able to change 4 parameters: 
-- - Player speed
-- - Enemy speed
-- - Player's fire rate per second
-- - Enemy spawn time interval (NOTE: this updates once the game has been reset, aka when the player dies)
+  - Player speed
+  - Enemy speed
+  - Player's fire rate per second
+  - Enemy spawn time interval (NOTE: this updates once the game has been reset, aka when the player dies)
 - if at many moment you feel like you're stuck, just click any mouse button on the screen
