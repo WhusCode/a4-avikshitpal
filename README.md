@@ -1,7 +1,6 @@
 # Circle Survivors
 
-Hosting link: http://a4-charlieroberts.me
-
+Hosting link: https://a4-avikshit-pal.onrender.com
 ### Goal: 
 Survive waves of enemies and score as many points as you can
 
