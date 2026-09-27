@@ -18,3 +18,6 @@ Implementing the parameters were the hardest part, I had to make game.js update 
   - Player's fire rate per second
   - Enemy spawn time interval (NOTE: this updates once the game has been reset, aka when the player dies)
 - if at many moment you feel like you're stuck, just click any mouse button on the screen
+
+### LLM Usage:
+- Used VSCode Copilot to help with fixing up the parameters not working in the pause overlay to update the game values
